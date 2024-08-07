@@ -1,3 +1,4 @@
+#E(log(V))
 # Main function to take user input and execute the algorithm
 V = int(input("Enter the number of vertices: "))  # Number of vertices
 E = int(input("Enter the number of edges: "))  # Number of edges
